@@ -1,2 +1,0 @@
-Paper.js - library for graphics & animation
-Howler.js - helps us play audio
